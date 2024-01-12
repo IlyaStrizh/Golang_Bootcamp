@@ -1,7 +1,7 @@
 EXECUTABLE = statistics
 
 build:
-	go build
+	go build -o $(EXECUTABLE)
 
 run: build
 	./$(EXECUTABLE)
