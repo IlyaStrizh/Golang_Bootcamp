@@ -1,0 +1,324 @@
+2023-08-04 10:16:07.454 +04 [66085] LOG:  starting PostgreSQL 14.8 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-08-04 10:16:07.458 +04 [66085] LOG:  listening on IPv6 address "::1", port 5432
+2023-08-04 10:16:07.458 +04 [66085] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-08-04 10:16:07.459 +04 [66085] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-08-04 10:16:07.468 +04 [66095] LOG:  database system was shut down at 2023-08-04 10:02:01 +04
+2023-08-04 10:16:07.474 +04 [66085] LOG:  database system is ready to accept connections
+2023-09-05 10:15:51.673 +04 [12125] FATAL:  role "pitermar" does not exist
+2023-09-05 10:35:35.755 +04 [12568] FATAL:  role "pitermar" does not exist
+2023-09-05 10:36:38.246 +04 [12578] FATAL:  role "pitermar" does not exist
+2023-09-05 10:38:46.024 +04 [12611] FATAL:  role "pitermar" does not exist
+2023-09-05 10:40:43.886 +04 [12646] FATAL:  role "pitermar" does not exist
+2023-09-05 10:41:50.099 +04 [12665] FATAL:  role "pgsql-21" does not exist
+2023-09-05 10:42:20.137 +04 [12672] FATAL:  role "pitermar" does not exist
+2023-09-05 10:42:53.816 +04 [12680] FATAL:  role "pitermar" does not exist
+2023-09-05 10:43:19.805 +04 [12687] FATAL:  role "pitermar" does not exist
+2023-09-05 10:44:37.854 +04 [12705] FATAL:  role "pitermar" does not exist
+2023-09-05 10:46:43.539 +04 [12739] FATAL:  role "pitermar" does not exist
+2023-09-05 10:47:00.689 +04 [12744] FATAL:  role "pitermar" does not exist
+2023-09-05 10:52:02.417 +04 [12825] LOG:  invalid length of startup packet
+2023-09-05 10:52:03.515 +04 [12826] LOG:  invalid length of startup packet
+2023-09-05 10:52:03.519 +04 [12829] LOG:  invalid length of startup packet
+2023-09-05 10:52:03.522 +04 [12830] LOG:  invalid length of startup packet
+2023-09-05 10:52:05.675 +04 [12834] LOG:  invalid length of startup packet
+2023-09-05 10:52:10.698 +04 [12835] LOG:  invalid length of startup packet
+2023-09-05 10:52:10.702 +04 [12838] LOG:  invalid length of startup packet
+2023-09-05 10:52:10.705 +04 [12839] LOG:  invalid length of startup packet
+2023-09-05 10:52:18.438 +04 [12843] LOG:  invalid length of startup packet
+2023-09-05 10:52:25.090 +04 [12844] LOG:  invalid length of startup packet
+2023-09-05 10:52:25.093 +04 [12846] LOG:  invalid length of startup packet
+2023-09-05 10:52:25.096 +04 [12847] LOG:  invalid length of startup packet
+2023-09-05 10:52:25.904 +04 [12851] LOG:  invalid length of startup packet
+2023-09-05 10:52:26.517 +04 [12852] LOG:  invalid length of startup packet
+2023-09-05 10:52:26.519 +04 [12854] LOG:  invalid length of startup packet
+2023-09-05 10:52:26.524 +04 [12855] LOG:  invalid length of startup packet
+2023-09-05 10:58:47.717 +04 [12985] FATAL:  role "pitermar" does not exist
+2023-09-05 11:00:50.157 +04 [13050] FATAL:  role "pitermar" does not exist
+2023-09-05 11:02:52.406 +04 [13146] FATAL:  role "pitermar" does not exist
+2023-09-05 11:03:07.874 +04 [13150] FATAL:  role "pitermar" does not exist
+2023-09-05 11:03:34.576 +04 [13160] LOG:  invalid length of startup packet
+2023-09-05 11:03:35.659 +04 [13161] LOG:  invalid length of startup packet
+2023-09-05 11:03:35.664 +04 [13164] LOG:  invalid length of startup packet
+2023-09-05 11:03:35.667 +04 [13165] LOG:  invalid length of startup packet
+2023-09-05 11:03:36.717 +04 [13167] LOG:  invalid length of startup packet
+2023-09-05 11:03:38.029 +04 [13168] LOG:  invalid length of startup packet
+2023-09-05 11:03:38.034 +04 [13170] LOG:  invalid length of startup packet
+2023-09-05 11:03:38.037 +04 [13171] LOG:  invalid length of startup packet
+2023-09-05 11:03:43.069 +04 [13173] LOG:  invalid length of startup packet
+2023-09-05 11:07:04.146 +04 [13227] FATAL:  role "pitermar" does not exist
+2023-09-05 11:07:48.952 +04 [13243] FATAL:  role "pitermar" does not exist
+2023-09-05 11:08:18.405 +04 [13248] FATAL:  role "pitermar" does not exist
+2023-09-05 11:08:23.901 +04 [13251] FATAL:  role "pitermar" does not exist
+2023-09-05 11:09:06.311 +04 [13262] FATAL:  role "pitermar" does not exist
+2023-09-05 11:10:17.126 +04 [13278] FATAL:  role "pitermar" does not exist
+2023-09-05 11:11:07.929 +04 [13300] FATAL:  role "pitermar" does not exist
+2023-09-05 11:12:10.424 +04 [13315] FATAL:  role "pitermar" does not exist
+2023-09-05 11:12:21.042 +04 [13318] FATAL:  role "pitermar" does not exist
+2023-09-05 11:12:36.275 +04 [13322] FATAL:  role "pitermar" does not exist
+2023-09-05 11:18:20.736 +04 [13497] FATAL:  role "pitermar" does not exist
+2023-09-05 11:19:09.225 +04 [13510] FATAL:  role "pgsql-21" does not exist
+2023-09-05 11:19:23.674 +04 [13513] FATAL:  role "pitermar" does not exist
+2023-09-05 11:19:41.163 +04 [13519] FATAL:  role "felipevo" does not exist
+2023-09-05 11:20:06.132 +04 [13524] FATAL:  role "pitermar" does not exist
+2023-09-05 11:22:22.376 +04 [13594] FATAL:  role "pitermar" does not exist
+2023-09-05 11:22:37.223 +04 [13597] FATAL:  role "pitermar" does not exist
+2023-09-05 11:22:49.341 +04 [13602] FATAL:  role "pitermar" does not exist
+2023-09-05 11:24:08.672 +04 [13626] FATAL:  role "pitermar" does not exist
+2023-09-05 11:25:16.984 +04 [13642] FATAL:  role "pitermar" does not exist
+2023-09-05 11:32:15.020 +04 [13835] FATAL:  role "pitermar" does not exist
+2023-09-05 11:32:23.386 +04 [13859] FATAL:  role "pitermar" does not exist
+2023-09-05 11:33:00.899 +04 [13871] LOG:  invalid length of startup packet
+2023-09-05 11:33:00.932 +04 [13872] LOG:  invalid length of startup packet
+2023-09-05 11:33:00.937 +04 [13873] LOG:  invalid length of startup packet
+2023-09-05 11:35:23.483 +04 [13910] FATAL:  role "pitermar" does not exist
+2023-09-05 11:38:05.156 +04 [13962] FATAL:  role "pitermar" does not exist
+2023-09-05 11:38:08.060 +04 [13965] FATAL:  role "pitermar" does not exist
+2023-09-05 11:38:47.093 +04 [13982] FATAL:  role "pitermar" does not exist
+2023-09-05 11:39:57.225 +04 [14058] FATAL:  role "pitermar" does not exist
+2023-09-05 11:39:59.289 +04 [14059] FATAL:  role "pitermar" does not exist
+2023-09-05 11:40:39.916 +04 [14076] LOG:  invalid length of startup packet
+2023-09-05 11:40:41.019 +04 [14077] LOG:  invalid length of startup packet
+2023-09-05 11:40:41.022 +04 [14082] LOG:  invalid length of startup packet
+2023-09-05 11:40:41.026 +04 [14083] LOG:  invalid length of startup packet
+2023-09-05 11:40:44.970 +04 [14085] LOG:  invalid length of startup packet
+2023-09-05 11:40:45.849 +04 [14086] LOG:  invalid length of startup packet
+2023-09-05 11:40:45.852 +04 [14088] LOG:  invalid length of startup packet
+2023-09-05 11:40:45.857 +04 [14089] LOG:  invalid length of startup packet
+2023-09-05 11:40:46.675 +04 [14091] LOG:  invalid length of startup packet
+2023-09-05 11:40:47.761 +04 [14092] LOG:  invalid length of startup packet
+2023-09-05 11:40:47.764 +04 [14094] LOG:  invalid length of startup packet
+2023-09-05 11:40:47.768 +04 [14095] LOG:  invalid length of startup packet
+2023-09-05 11:40:48.624 +04 [14097] LOG:  invalid length of startup packet
+2023-09-05 11:40:49.508 +04 [14098] LOG:  invalid length of startup packet
+2023-09-05 11:40:49.512 +04 [14100] LOG:  invalid length of startup packet
+2023-09-05 11:40:49.515 +04 [14101] LOG:  invalid length of startup packet
+2023-09-05 11:40:54.543 +04 [14105] LOG:  invalid length of startup packet
+2023-09-05 11:40:54.820 +04 [14106] LOG:  invalid length of startup packet
+2023-09-05 11:40:54.827 +04 [14108] LOG:  invalid length of startup packet
+2023-09-05 11:40:54.830 +04 [14109] LOG:  invalid length of startup packet
+2023-09-05 11:41:02.800 +04 [14115] LOG:  invalid length of startup packet
+2023-09-05 11:41:04.550 +04 [14116] LOG:  invalid length of startup packet
+2023-09-05 11:41:04.553 +04 [14118] LOG:  invalid length of startup packet
+2023-09-05 11:41:04.556 +04 [14119] LOG:  invalid length of startup packet
+2023-09-05 11:41:05.579 +04 [14121] LOG:  invalid length of startup packet
+2023-09-05 11:41:09.881 +04 [14122] LOG:  invalid length of startup packet
+2023-09-05 11:41:09.886 +04 [14124] LOG:  invalid length of startup packet
+2023-09-05 11:41:10.595 +04 [14126] LOG:  invalid length of startup packet
+2023-09-05 11:41:12.724 +04 [14127] LOG:  invalid length of startup packet
+2023-09-05 11:41:12.729 +04 [14131] LOG:  invalid length of startup packet
+2023-09-05 11:41:12.732 +04 [14132] LOG:  invalid length of startup packet
+2023-09-05 11:41:13.759 +04 [14134] LOG:  invalid length of startup packet
+2023-09-05 11:41:20.581 +04 [14136] FATAL:  role "pitermar" does not exist
+2023-09-05 11:42:13.587 +04 [14151] FATAL:  role "pitermar" does not exist
+2023-09-05 11:42:56.100 +04 [14163] FATAL:  role "pitermar" does not exist
+2023-09-05 11:42:58.640 +04 [14164] FATAL:  role "pitermar" does not exist
+2023-09-05 11:43:47.988 +04 [14176] FATAL:  role "pitermar" does not exist
+2023-09-05 11:43:59.318 +04 [14179] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:45.083 +04 [14596] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:54.212 +04 [14597] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:57.362 +04 [14598] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:58.299 +04 [14599] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:58.723 +04 [14600] FATAL:  role "pitermar" does not exist
+2023-09-05 11:53:59.131 +04 [14601] FATAL:  role "pitermar" does not exist
+2023-09-05 11:54:32.059 +04 [14604] FATAL:  role "pitermar" does not exist
+2023-09-05 11:54:38.350 +04 [14605] FATAL:  role "pitermar" does not exist
+2023-09-05 11:57:25.004 +04 [14712] FATAL:  role "pitermar" does not exist
+2023-09-05 11:57:44.049 +04 [14718] FATAL:  role "pitermar" does not exist
+2023-09-05 11:57:46.887 +04 [14721] FATAL:  role "pitermar" does not exist
+2023-09-05 12:00:36.750 +04 [14826] FATAL:  role "pitermar" does not exist
+2023-09-05 12:00:38.212 +04 [14827] FATAL:  role "pitermar" does not exist
+2023-09-05 12:00:39.420 +04 [14828] FATAL:  role "pitermar" does not exist
+2023-09-05 12:00:40.116 +04 [14829] FATAL:  role "pitermar" does not exist
+2023-09-05 12:07:54.341 +04 [15139] FATAL:  role "pitermar" does not exist
+2023-09-05 12:08:33.322 +04 [15179] FATAL:  role "pitermar" does not exist
+2023-09-05 12:11:16.912 +04 [15284] FATAL:  role "pitermar" does not exist
+2023-09-05 12:11:19.106 +04 [15286] FATAL:  role "pitermar" does not exist
+2023-09-05 12:11:24.241 +04 [15288] FATAL:  role "pitermar" does not exist
+2023-09-05 12:12:37.831 +04 [15313] FATAL:  role "pitermar" does not exist
+2023-09-05 12:13:06.507 +04 [15322] FATAL:  role "pitermar" does not exist
+2023-09-05 12:14:15.274 +04 [15347] LOG:  invalid length of startup packet
+2023-09-05 12:14:15.589 +04 [15350] LOG:  invalid length of startup packet
+2023-09-05 12:14:16.621 +04 [15351] LOG:  invalid length of startup packet
+2023-09-05 12:14:16.625 +04 [15354] LOG:  invalid length of startup packet
+2023-09-05 12:14:16.628 +04 [15355] LOG:  invalid length of startup packet
+2023-09-05 12:14:21.647 +04 [15357] LOG:  invalid length of startup packet
+2023-09-05 12:18:53.577 +04 [15554] FATAL:  role "pitermar" does not exist
+2023-09-05 12:20:07.361 +04 [15581] FATAL:  role "pitermar" does not exist
+2023-09-05 12:34:10.543 +04 [15905] FATAL:  role "pitermar" does not exist
+2023-09-05 12:34:31.716 +04 [15910] FATAL:  role "pitermar" does not exist
+2023-09-05 12:37:24.029 +04 [16035] LOG:  invalid length of startup packet
+2023-09-05 12:37:24.703 +04 [16038] LOG:  invalid length of startup packet
+2023-09-05 12:37:25.765 +04 [16039] LOG:  invalid length of startup packet
+2023-09-05 12:37:25.770 +04 [16042] LOG:  invalid length of startup packet
+2023-09-05 12:37:25.773 +04 [16043] LOG:  invalid length of startup packet
+2023-09-05 12:37:27.046 +04 [16045] LOG:  invalid length of startup packet
+2023-09-05 12:37:27.793 +04 [16046] LOG:  invalid length of startup packet
+2023-09-05 12:37:27.796 +04 [16048] LOG:  invalid length of startup packet
+2023-09-05 12:37:27.800 +04 [16049] LOG:  invalid length of startup packet
+2023-09-05 12:43:51.591 +04 [16343] FATAL:  role "pitermar" does not exist
+2023-09-05 12:47:11.453 +04 [16436] FATAL:  role "pitermar" does not exist
+2023-09-05 12:51:05.429 +04 [16503] FATAL:  role "pitermar" does not exist
+2023-09-05 12:51:25.144 +04 [16510] FATAL:  role "pitermar" does not exist
+2023-09-05 12:55:09.013 +04 [16638] FATAL:  role "pitermar" does not exist
+2023-09-05 12:55:11.043 +04 [16641] FATAL:  role "pitermar" does not exist
+2023-09-05 12:57:39.750 +04 [16729] FATAL:  role "pitermar" does not exist
+2023-09-05 12:57:57.189 +04 [16750] FATAL:  role "pitermar" does not exist
+2023-09-05 12:58:52.680 +04 [16776] FATAL:  role "pitermar" does not exist
+2023-09-05 12:58:53.551 +04 [16778] FATAL:  role "pitermar" does not exist
+2023-09-05 12:58:54.231 +04 [16780] FATAL:  role "pitermar" does not exist
+2023-09-05 12:58:54.679 +04 [16782] FATAL:  role "pitermar" does not exist
+2023-09-05 12:58:56.753 +04 [16784] FATAL:  role "pitermar" does not exist
+2023-09-05 12:59:44.758 +04 [16804] FATAL:  role "pitermar" does not exist
+2023-09-05 12:59:45.712 +04 [16806] FATAL:  role "pitermar" does not exist
+2023-09-05 12:59:48.143 +04 [16809] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:11.571 +04 [16822] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:12.769 +04 [16824] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:34.484 +04 [16832] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:35.579 +04 [16834] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:37.611 +04 [16837] FATAL:  role "pitermar" does not exist
+2023-09-05 13:00:41.285 +04 [16841] FATAL:  role "pitermar" does not exist
+2023-09-05 13:01:07.262 +04 [16847] FATAL:  role "pitermar" does not exist
+2023-09-05 13:01:51.702 +04 [16860] FATAL:  role "pitermar" does not exist
+2023-09-05 13:02:40.640 +04 [16870] FATAL:  role "pitermar" does not exist
+2023-09-05 13:08:23.152 +04 [17085] FATAL:  role "postgres" does not exist
+2023-09-05 13:09:39.308 +04 [17107] FATAL:  role "postgres" does not exist
+2023-09-05 13:10:09.117 +04 [17117] FATAL:  role "postgres" does not exist
+2023-09-05 13:10:09.853 +04 [17119] FATAL:  role "postgres" does not exist
+2023-09-05 13:10:12.116 +04 [17122] FATAL:  role "postgres" does not exist
+2023-09-05 13:20:18.833 +04 [17378] FATAL:  role "pitermar" does not exist
+2023-09-05 13:20:42.920 +04 [17402] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:09.284 +04 [17478] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:18.487 +04 [17481] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:33.779 +04 [17487] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:52.905 +04 [17492] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:54.550 +04 [17493] FATAL:  role "pitermar" does not exist
+2023-09-05 13:26:56.764 +04 [17494] FATAL:  role "pitermar" does not exist
+2023-09-05 13:27:07.950 +04 [17497] FATAL:  role "pitermar" does not exist
+2023-09-05 13:27:10.114 +04 [17498] FATAL:  role "pitermar" does not exist
+2023-09-05 13:31:34.555 +04 [17602] FATAL:  role "postgres" does not exist
+2023-09-05 13:31:49.374 +04 [17606] FATAL:  role "pitermar" does not exist
+2023-09-05 13:32:25.094 +04 [17617] FATAL:  role "pitermar" does not exist
+2023-09-05 13:34:58.889 +04 [17667] FATAL:  role "pitermar" does not exist
+2023-09-05 13:35:00.334 +04 [17668] FATAL:  role "pitermar" does not exist
+2023-09-05 13:35:05.756 +04 [17677] FATAL:  role "pitermar" does not exist
+2023-09-05 13:35:56.297 +04 [17688] FATAL:  role "pitermar" does not exist
+2023-09-05 13:36:00.778 +04 [17689] FATAL:  role "pitermar" does not exist
+2023-09-05 13:36:07.766 +04 [17693] FATAL:  role "pitermar" does not exist
+2023-09-05 13:36:20.114 +04 [17696] FATAL:  role "pitermar" does not exist
+2023-09-05 13:38:03.289 +04 [17737] FATAL:  role "pitermar" does not exist
+2023-09-05 13:42:22.208 +04 [66085] LOG:  received smart shutdown request
+2023-09-05 13:42:22.311 +04 [66085] LOG:  background worker "logical replication launcher" (PID 66101) exited with exit code 1
+2023-09-05 13:42:22.312 +04 [66096] LOG:  shutting down
+2023-09-05 13:42:22.370 +04 [66085] LOG:  database system is shut down
+2023-09-05 13:43:44.195 +04 [676] LOG:  starting PostgreSQL 14.8 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-09-05 13:43:44.201 +04 [676] LOG:  listening on IPv6 address "::1", port 5432
+2023-09-05 13:43:44.201 +04 [676] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-09-05 13:43:44.207 +04 [676] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-09-05 13:43:44.238 +04 [800] LOG:  database system was shut down at 2023-09-05 13:42:22 +04
+2023-09-05 13:43:44.265 +04 [676] LOG:  database system is ready to accept connections
+2023-09-05 13:50:12.701 +04 [1216] FATAL:  role "pitermar" does not exist
+2023-09-05 13:55:06.255 +04 [1314] FATAL:  role "pitermar" does not exist
+2023-09-05 13:55:09.565 +04 [1318] FATAL:  role "pitermar" does not exist
+2023-09-05 13:57:43.483 +04 [1486] LOG:  invalid length of startup packet
+2023-09-05 13:57:44.586 +04 [1487] LOG:  invalid length of startup packet
+2023-09-05 13:57:44.591 +04 [1490] LOG:  invalid length of startup packet
+2023-09-05 13:57:44.594 +04 [1491] LOG:  invalid length of startup packet
+2023-09-05 13:57:49.613 +04 [1495] LOG:  invalid length of startup packet
+2023-09-05 14:05:22.671 +04 [1960] FATAL:  role "pitermar" does not exist
+2023-09-05 14:05:24.976 +04 [1961] FATAL:  role "pitermar" does not exist
+2023-09-05 14:05:28.360 +04 [1964] FATAL:  role "pitermar" does not exist
+2023-09-05 14:12:03.714 +04 [2144] FATAL:  role "pitermar" does not exist
+2023-09-05 14:12:05.269 +04 [2147] FATAL:  role "pitermar" does not exist
+2023-09-05 14:12:06.805 +04 [2151] FATAL:  role "pitermar" does not exist
+2023-09-05 14:12:08.285 +04 [2152] FATAL:  role "pitermar" does not exist
+2023-09-05 14:17:39.989 +04 [2322] FATAL:  role "pitermar" does not exist
+2023-09-05 14:17:42.181 +04 [2325] FATAL:  role "pitermar" does not exist
+2023-09-05 14:24:02.999 +04 [2505] FATAL:  database "school_21-pgsql" does not exist
+2023-09-05 14:24:15.882 +04 [2508] FATAL:  database "ila" does not exist
+2023-09-05 14:24:47.598 +04 [2517] FATAL:  database "ila" does not exist
+2023-09-05 14:25:34.243 +04 [2527] FATAL:  database "ila" does not exist
+2023-09-05 14:26:29.661 +04 [2552] FATAL:  role "pitermar" does not exist
+2023-09-05 14:26:59.017 +04 [2559] FATAL:  database "school_21-pgsql" does not exist
+2023-09-05 14:27:11.862 +04 [2562] FATAL:  role "pitermar" does not exist
+2023-09-05 14:28:13.708 +04 [2582] FATAL:  database "ila" does not exist
+2023-09-05 14:30:38.353 +04 [2622] LOG:  invalid length of startup packet
+2023-09-05 14:30:39.422 +04 [2623] LOG:  invalid length of startup packet
+2023-09-05 14:30:39.426 +04 [2626] LOG:  invalid length of startup packet
+2023-09-05 14:30:39.429 +04 [2627] LOG:  invalid length of startup packet
+2023-09-05 14:30:40.337 +04 [2629] LOG:  invalid length of startup packet
+2023-09-05 14:30:41.817 +04 [2630] LOG:  invalid length of startup packet
+2023-09-05 14:30:41.820 +04 [2633] LOG:  invalid length of startup packet
+2023-09-05 14:30:41.823 +04 [2634] LOG:  invalid length of startup packet
+2023-09-05 14:30:43.027 +04 [2636] LOG:  invalid length of startup packet
+2023-09-05 14:43:16.853 +04 [2900] FATAL:  role "pitermar" does not exist
+2023-09-05 14:43:46.308 +04 [2905] FATAL:  role "pitermar" does not exist
+2023-09-05 14:43:54.757 +04 [2908] FATAL:  database "school_21-pgsql" does not exist
+2023-09-05 14:44:03.129 +04 [2911] FATAL:  database "ila" does not exist
+2023-09-05 14:44:22.857 +04 [2916] FATAL:  database "school_21-pgsql" does not exist
+2023-09-05 14:49:50.670 +04 [3105] LOG:  invalid length of startup packet
+2023-09-05 14:50:10.193 +04 [3130] LOG:  invalid length of startup packet
+2023-09-05 14:51:04.925 +04 [3190] FATAL:  database "school_21-pgsql" does not exist
+2023-09-05 14:51:13.803 +04 [3193] FATAL:  database "ila" does not exist
+2023-09-05 14:55:55.560 +04 [3292] FATAL:  role "pitermar" does not exist
+2023-09-05 14:56:05.453 +04 [3296] FATAL:  role "pitermar" does not exist
+2023-09-05 15:02:51.464 +04 [3496] FATAL:  role "pitermar" does not exist
+2023-09-05 15:02:56.712 +04 [3497] FATAL:  role "pitermar" does not exist
+2023-10-25 17:47:04.874 +04 [676] LOG:  received smart shutdown request
+2023-10-25 17:47:05.086 +04 [676] LOG:  background worker "logical replication launcher" (PID 806) exited with exit code 1
+2023-10-25 17:47:05.086 +04 [801] LOG:  shutting down
+2023-10-25 17:47:05.112 +04 [676] LOG:  database system is shut down
+2023-10-25 18:06:18.131 +04 [1835] LOG:  starting PostgreSQL 14.9 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-10-25 18:06:18.132 +04 [1835] LOG:  listening on IPv6 address "::1", port 5432
+2023-10-25 18:06:18.133 +04 [1835] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-10-25 18:06:18.133 +04 [1835] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-10-25 18:06:18.142 +04 [1870] LOG:  database system was shut down at 2023-10-25 17:47:05 +04
+2023-10-25 18:06:18.150 +04 [1835] LOG:  database system is ready to accept connections
+2023-10-28 15:28:04.333 +04 [1835] LOG:  received smart shutdown request
+2023-10-28 15:28:04.403 +04 [1835] LOG:  background worker "logical replication launcher" (PID 1876) exited with exit code 1
+2023-10-28 15:28:04.403 +04 [1871] LOG:  shutting down
+2023-10-28 15:28:04.423 +04 [1835] LOG:  database system is shut down
+2023-10-28 15:29:39.426 +04 [677] LOG:  starting PostgreSQL 14.9 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-10-28 15:29:39.829 +04 [677] LOG:  listening on IPv6 address "::1", port 5432
+2023-10-28 15:29:39.829 +04 [677] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-10-28 15:29:40.634 +04 [677] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-10-28 15:29:46.791 +04 [804] LOG:  database system was shut down at 2023-10-28 15:28:04 +04
+2023-10-28 15:29:48.970 +04 [677] LOG:  database system is ready to accept connections
+2023-10-28 16:25:51.168 +04 [677] LOG:  received smart shutdown request
+2023-10-28 16:25:51.258 +04 [677] LOG:  background worker "logical replication launcher" (PID 826) exited with exit code 1
+2023-10-28 16:25:51.260 +04 [821] LOG:  shutting down
+2023-10-28 16:25:51.284 +04 [677] LOG:  database system is shut down
+2023-10-28 16:27:14.436 +04 [629] LOG:  starting PostgreSQL 14.9 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-10-28 16:27:14.437 +04 [629] LOG:  listening on IPv6 address "::1", port 5432
+2023-10-28 16:27:14.437 +04 [629] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-10-28 16:27:14.439 +04 [629] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-10-28 16:27:14.451 +04 [773] LOG:  database system was shut down at 2023-10-28 16:25:51 +04
+2023-10-28 16:27:14.467 +04 [629] LOG:  database system is ready to accept connections
+2023-10-28 17:10:02.708 +04 [629] LOG:  received smart shutdown request
+2023-10-28 17:10:02.783 +04 [629] LOG:  background worker "logical replication launcher" (PID 779) exited with exit code 1
+2023-10-28 17:10:02.789 +04 [774] LOG:  shutting down
+2023-10-28 17:10:02.800 +04 [629] LOG:  database system is shut down
+2023-10-28 17:11:15.511 +04 [666] LOG:  starting PostgreSQL 14.9 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-10-28 17:11:15.798 +04 [666] LOG:  listening on IPv6 address "::1", port 5432
+2023-10-28 17:11:15.798 +04 [666] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-10-28 17:11:15.799 +04 [666] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-10-28 17:11:15.811 +04 [725] LOG:  database system was shut down at 2023-10-28 17:10:02 +04
+2023-10-28 17:11:15.826 +04 [666] LOG:  database system is ready to accept connections
+2023-12-22 01:17:14.194 +04 [666] LOG:  received smart shutdown request
+2023-12-22 01:17:14.333 +04 [666] LOG:  background worker "logical replication launcher" (PID 731) exited with exit code 1
+2023-12-22 01:17:14.333 +04 [726] LOG:  shutting down
+2023-12-22 01:17:14.352 +04 [666] LOG:  database system is shut down
+2023-12-22 08:57:23.434 +04 [830] LOG:  starting PostgreSQL 14.9 (Homebrew) on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.30), 64-bit
+2023-12-22 08:57:23.580 +04 [830] LOG:  listening on IPv6 address "::1", port 5432
+2023-12-22 08:57:23.585 +04 [830] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-12-22 08:57:23.594 +04 [830] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-12-22 08:57:23.638 +04 [964] LOG:  database system was shut down at 2023-12-22 01:17:14 +04
+2023-12-22 08:57:23.657 +04 [830] LOG:  database system is ready to accept connections
+2023-12-24 18:12:55.446 +04 [830] LOG:  setsockopt(TCP_NODELAY) failed: Invalid argument
+2023-12-24 18:13:56.744 +04 [4112] LOG:  could not receive data from client: Connection reset by peer
+2023-12-24 18:16:50.362 +04 [830] LOG:  setsockopt(TCP_NODELAY) failed: Invalid argument
+2023-12-24 18:16:56.456 +04 [4215] LOG:  invalid length of startup packet
+2023-12-24 18:16:56.460 +04 [4216] LOG:  invalid length of startup packet
+2023-12-24 18:16:56.464 +04 [4217] FATAL:  unsupported frontend protocol 65363.19778: server supports 3.0 to 3.0
+2023-12-24 18:16:56.484 +04 [4220] LOG:  invalid length of startup packet
+2023-12-24 18:16:56.487 +04 [4221] LOG:  invalid length of startup packet
+2023-12-24 18:46:38.540 +04 [830] LOG:  setsockopt(TCP_NODELAY) failed: Invalid argument
