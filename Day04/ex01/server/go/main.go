@@ -15,7 +15,7 @@ import (
 	// WARNING!
 	// Pass --git-repo-id and --git-user-id properties when generating the code
 	//
-	sw "Day04/ex00/go"
+	sw "Day04/ex01/go"
 )
 
 func main() {
@@ -25,5 +25,5 @@ func main() {
 
 	router := sw.NewRouter(routes)
 
-	log.Fatal(router.Run(":3333"))
+	log.Fatal(router.RunTLS(":3333", "ex01/minica/localhost/cert.pem", "ex01/minica/localhost/key.pem"))
 }

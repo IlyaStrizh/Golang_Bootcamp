@@ -1,4 +1,4 @@
-module Day04/ex00
+module Day04/ex01
 
 go 1.19
 
