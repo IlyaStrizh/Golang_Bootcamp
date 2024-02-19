@@ -1,0 +1,1 @@
+docker-compose up -d && sleep 3 && docker exec -it apg_team00 psql -U pitermar -d anomaly

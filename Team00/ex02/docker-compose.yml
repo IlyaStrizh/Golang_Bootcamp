@@ -1,0 +1,19 @@
+
+version: '3'
+
+services:
+    postgres:
+        image: 'postgres'
+        container_name: 'apg_team00'
+        environment:
+            POSTGRES_DB: 'anomaly'
+            POSTGRES_USER: 'pitermar'
+            POSTGRES_PASSWORD: '1243'
+        volumes:
+            - 'apg:/var/lib/postgresql/data'
+        ports:
+            - "5051:5432"
+
+volumes:
+    apg:
+        driver: local
