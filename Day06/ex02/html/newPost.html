@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="../css/admin.css">
+  <style>
+    .container__logo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      object-fit: contain;
+      width: 50%;
+      height: 100%;
+    }
+    .logo {
+      width: 230px;
+      height: 230px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <div class="container right-panel-active">
+    <div class="container__logo">
+      <img src="../images/amazing_logo.png" alt="Logo" class="logo">
+    </div>
+    <!-- Sign In -->
+    <div class="container__form container--signin">
+      <form action="#" class="form" id="form2" method="POST">
+        <h2 class="form__title">Admin panel</h2>
+        <input type="text" name="title" placeholder="Title" class="input" />
+        <input type="text" name="path" placeholder="Path to '.md' file" class="input" required />
+        <button class="btn">Post article</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
